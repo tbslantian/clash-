@@ -68,6 +68,10 @@ DOMAIN-SUFFIX,ipaddress.me
 DOMAIN-SUFFIX,ip2proxy.com
 DOMAIN-SUFFIX,vpnapi.io
 
+DOMAIN,stun.nextcloud.com
+DOMAIN,stun.voip.blackberry.com
+DOMAIN,stun.freeswitch.org
+
 
 IP-CIDR,74.125.250.129/24,no-resolve
 
